@@ -10,4 +10,6 @@
 
 Obs[1]: As tarefas deverão ser armazenadas no LocalStorage do navegador, utilizando redux para salvar/buscar essas informações
 
-Obs[2]: Design livre
+Obs[2]: Aplicar documentação de cada função utilizada
+
+Obs[3]: Design/Layout livre
