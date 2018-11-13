@@ -8,8 +8,10 @@
 - Excluir tarefa da lista
 - Exibir contadores de Total de tarefas, tarefas concluídas e não concluídas
 
-Obs[1]: As tarefas deverão ser armazenadas no LocalStorage do navegador, utilizando redux para salvar/buscar essas informações
+Obs[1]: As tarefas deverão ser armazenadas no LocalStorage do navegador
 
-Obs[2]: Aplicar documentação de cada função utilizada
+Obs[2]: Utilizar redux para controlar o estado da aplicação
 
-Obs[3]: Design/Layout livre
+Obs[3]: Aplicar documentação de cada função utilizada
+
+Obs[4]: Design/Layout livre
