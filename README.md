@@ -15,11 +15,11 @@ Obs[1]: As tarefas deverão ser armazenadas no LocalStorage do navegador
 
 Obs[2]: Utilizar redux para controlar o estado da aplicação
 
-Obs[3]: Aplicar documentação de cada função utilizada
+Obs[3]: Aplicar comentários explicando cada função utilizada
 
 Obs[4]: Design/Layout livre
 
 Pontos que serão avaliados:
 - Qualidade do Código
-- Layout
+- Design/Layout da aplicação
 - Componentização
